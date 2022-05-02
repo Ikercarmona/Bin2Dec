@@ -111,8 +111,9 @@ p {
 footer {
     color: aliceblue;
     text-decoration: none;
-    padding-top: 35%;
+    padding-top: 20%;
     text-align: center;
+    padding-bottom: 5%;
 }
 
 a {
@@ -157,6 +158,14 @@ select {
     width: 30%;
     height: 50px;
     margin: 5px;
+}
+
+.centrarSelect {
+    text-align: center;
+}
+
+.centrarselectb {
+    color: black;
 }
 
 input[type=submit] {
